@@ -2,4 +2,5 @@
 
 1. Commit
 2. hello
-3. Edit from Web
+3. merge
+1. Merged usinf Meld
